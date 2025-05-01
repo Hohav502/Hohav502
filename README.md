@@ -14,6 +14,9 @@
 
 ⚡ Fun fact: I enjoy learning new tech skills and always try to improve myself step by step!
 
+![image](https://github.com/user-attachments/assets/afe6a173-2f52-4077-ba8d-856d5117269c)
+
+
 <!---
 Hohav502/Hohav502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
